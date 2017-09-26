@@ -76,7 +76,7 @@ def setComputerPriorityPutArray(myboard,priority, isFirst)
           end
         end
       end
-      puts priority[i]
+      #puts priority[i]
     end
   end
 end
